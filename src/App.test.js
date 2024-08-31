@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders MyDestinyCard title', () => {
+test('renders mydestinycard title', () => {
   render(<App />);
-  const linkElement = screen.getByText(/MyDestinyCard/i);
+  const linkElement = screen.getByText(/mydestinycard/i);
   expect(linkElement).toBeInTheDocument();
 });
