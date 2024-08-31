@@ -27,7 +27,7 @@ The application is built using React, allowing for a smooth user experience with
 
 ## Author
 - **Name**: Linda Roman  
-- **Email**: Linda5898@outlook.com  
+- **Email**: linda5898@outlook.com  
 - **Website**: My Destiny Card 
 
 - Linda Roman is a seasoned software developer with over 10 years of experience in web development and software architecture. 
