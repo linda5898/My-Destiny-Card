@@ -1,13 +1,13 @@
-# My Destiny Card
+# mydestinycard
 
 ## Description
 
-My Destiny Card is a dynamic expense tracking application designed to help users manage their finances effortlessly. 
+mydestinycard is a dynamic expense tracking application designed to help users manage their finances effortlessly. 
 
 This app allows you to input your daily, weekly, or monthly expenses, view detailed summaries, and generate receipts for record-keeping. 
 The intuitive user interface makes it simple to add, update, or remove expenses, making it a great tool for anyone looking to get a better handle on their financial management. 
 
-The application is built using React, allowing for a smooth user experience with real-time updates. My Destiny Card aims to empower users to understand their spending habits and make informed decisions.
+The application is built using React, allowing for a smooth user experience with real-time updates. mydestinycard aims to empower users to understand their spending habits and make informed decisions.
 
 ## Features
 - **Expense Tracking**: Easily add, edit, and delete expenses.
@@ -28,7 +28,7 @@ The application is built using React, allowing for a smooth user experience with
 ## Author
 - **Name**: Linda Roman  
 - **Email**: linda5898@outlook.com  
-- **Website**: My Destiny Card 
+- **Website**: mydestinycard 
 
 - Linda Roman is a seasoned software developer with over 10 years of experience in web development and software architecture. 
 
